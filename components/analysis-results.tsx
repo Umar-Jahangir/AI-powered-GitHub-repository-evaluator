@@ -8,6 +8,7 @@ import { RoadmapSection } from "@/components/roadmap-section"
 import { RepoInfo } from "@/components/repo-info"
 import { CommitActivity } from "@/components/commit-activity"
 import { FileStructure } from "@/components/file-structure"
+import { PdfExportButton } from "@/components/pdf-export-button"
 
 interface AnalysisResultsProps {
   analysis: RepositoryAnalysis
@@ -16,6 +17,10 @@ interface AnalysisResultsProps {
 export function AnalysisResults({ analysis }: AnalysisResultsProps) {
   return (
     <div className="space-y-6 animate-in fade-in slide-in-from-bottom-4 duration-500">
+      <div className="flex justify-end">
+        <PdfExportButton analysis={analysis} />
+      </div>
+
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
         <div className="lg:col-span-2">
           <RepoInfo repoInfo={analysis.repoInfo} />
