@@ -30,6 +30,8 @@ This project follows the **official problem statement provided in the hackathon 
 
 ## ✨ Key Features
 
+### Light/dark Theme
+
 ### 🔗 Repository Analysis
 
 * Public GitHub repository URL input
