@@ -30,6 +30,12 @@ This project follows the **official problem statement provided in the hackathon 
 
 ## ✨ Key Features
 
+### Light/dark Theme
+
+### PDF report export
+
+### Commit activity graphs
+
 ### 🔗 Repository Analysis
 
 * Public GitHub repository URL input
@@ -205,26 +211,11 @@ Navigate to [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## 🧪 Future Enhancements
 
-* Commit activity graphs
 * Tech stack visualizations
-* PDF report export
 * CI/CD readiness scoring
 * Resume-ready developer profile
 
 ---
-
-## 🏆 Hackathon Relevance
-
-* Aligns fully with **GitGrade Hackathon theme**
-* Focuses on real-world developer evaluation
-* Prioritizes clarity, honesty, and actionable improvement
-* Built with scalability and extensibility in mind
-
----
-
-## 👨‍💻 Team & Contribution
-
-This project was developed as part of a hackathon challenge. Contributions and feedback are welcome.
 
 ---
 
