@@ -32,6 +32,8 @@ This project follows the **official problem statement provided in the hackathon 
 
 ### Light/dark Theme
 
+### PDF report export
+
 ### Commit activity graphs
 
 ### 🔗 Repository Analysis
