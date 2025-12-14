@@ -211,9 +211,7 @@ Navigate to [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## 🧪 Future Enhancements
 
-* Commit activity graphs
 * Tech stack visualizations
-* PDF report export
 * CI/CD readiness scoring
 * Resume-ready developer profile
 
