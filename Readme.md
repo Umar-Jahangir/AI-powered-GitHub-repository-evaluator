@@ -213,19 +213,6 @@ Navigate to [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
-## 🏆 Hackathon Relevance
-
-* Aligns fully with **GitGrade Hackathon theme**
-* Focuses on real-world developer evaluation
-* Prioritizes clarity, honesty, and actionable improvement
-* Built with scalability and extensibility in mind
-
----
-
-## 👨‍💻 Team & Contribution
-
-This project was developed as part of a hackathon challenge. Contributions and feedback are welcome.
-
 ---
 
 ## 📄 License
